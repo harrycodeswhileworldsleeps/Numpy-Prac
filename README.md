@@ -21,3 +21,13 @@ After calculating the yeild add the field to the given csv and save it as a new 
 ![image](https://user-images.githubusercontent.com/94862735/211197433-c2221a33-3f87-4001-b800-18e6ea22d64d.png)
 
 - Files are also attached in the rep
+
+## Problem Statement 2 
+### Solving a quadratic equation with np and plotting roots with pandas 
+
+##### Method explored 
+Root
+- Roots are (-1, -1 )
+- Graph 
+
+![image](https://user-images.githubusercontent.com/94862735/211302096-92aa7a2c-66b5-459d-b060-25a453c38390.png)

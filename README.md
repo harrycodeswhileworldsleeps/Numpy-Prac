@@ -1,5 +1,8 @@
 #   Let's pythonize the world 
 
+![image](https://user-images.githubusercontent.com/94862735/211325699-5256bbb4-968d-42dd-b2d4-0c3636c60f8d.png)
+
+
 ## Problem Statement 1 
 
 There are various regions whose Temperature , Rainfall and Humidity are given within a csv file. 

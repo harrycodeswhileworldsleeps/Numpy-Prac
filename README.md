@@ -32,3 +32,14 @@ Root
 - Graph 
 
 ![image](https://user-images.githubusercontent.com/94862735/211302096-92aa7a2c-66b5-459d-b060-25a453c38390.png)
+
+### Applying pythagoras theorem 
+
+#### Formula -> H^2 = P^2 + B^2
+
+#### Method Explored 
+- Hypot 
+- np.ones (tuple())
+
+![image](https://user-images.githubusercontent.com/94862735/211325401-a2160e53-d586-4a86-9af9-f6e004cfffea.png)
+

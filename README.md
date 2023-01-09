@@ -22,7 +22,8 @@ After calculating the yeild add the field to the given csv and save it as a new 
 
 - Files are also attached in the rep
 
-## Problem Statement 2 
+## 5 exploratory methods 
+
 ### Solving a quadratic equation with np and plotting roots with pandas 
 
 ##### Method explored 

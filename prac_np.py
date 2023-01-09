@@ -32,3 +32,16 @@ print("new file shall look like ",results)
 
 np.savetxt('climate_result.txt',results,fmt='%.2f',header='temperature,rainfall,humidity,yeild')
 
+import numpy as np
+import pandas as pd 
+# equation is x**2 + 2x + 1 = 0 
+## x(x+2)+1 = 0 
+### x**2 + x+x+1
+# x (x +1 ) +(x+1)=0
+# 
+coeff = np.array([1,2,1])
+np.roots(coeff)
+print(np.roots(coeff))
+a = pd.DataFrame(np.roots(coeff))
+print(a)
+print(a.plot(kind='line'))

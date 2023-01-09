@@ -32,6 +32,8 @@ print("new file shall look like ",results)
 
 np.savetxt('climate_result.txt',results,fmt='%.2f',header='temperature,rainfall,humidity,yeild')
 
+#--------------------------------------------------------------------------------------------------------
+
 import numpy as np
 import pandas as pd 
 # equation is x**2 + 2x + 1 = 0 
@@ -45,3 +47,11 @@ print(np.roots(coeff))
 a = pd.DataFrame(np.roots(coeff))
 print(a)
 print(a.plot(kind='line'))
+
+#----------------------------------------------------------------------------------------------------------------
+
+import numpy as np 
+mock_ar = (np.ones((4,4)))*4
+mock_ar2 = (np.ones((4,4)))*3
+hypotenuse_arr=np.hypot(mock_ar2,mock_ar)
+print(hypotenuse_arr)
